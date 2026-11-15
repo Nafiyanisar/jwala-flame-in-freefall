@@ -1,0 +1,10 @@
+investigation_id,sample_number,material,thickness,length,width,air_flow,source
+PSI-98,S1,SIBAL Fabric,0.37 cm,40.6 cm,94 cm,20 cm/s,PSI-98 Experimental Table (units taken from column headers)
+PSI-98,S2,SIBAL Fabric,0.37 cm,40.6 cm,94 cm,20 cm/s,PSI-98 Experimental Table (units taken from column headers)
+PSI-99,2-1,Silicone,0.27 mm,29 cm,5 cm,20 cm/s,"PSI-99 Experimental Table, page 1 of 16 rows (values exactly as displayed)"
+PSI-99,2-2,Silicone,0.61 mm,29 cm,5 cm,20 cm/s,"PSI-99 Experimental Table, page 1 of 16 rows (values exactly as displayed)"
+PSI-99,2-3,Silicone,1.03 mm,29 cm,5 cm,20 cm/s,"PSI-99 Experimental Table, page 1 of 16 rows (values exactly as displayed)"
+PSI-99,2-4,Silicone,037 mm,29 cm,5 cm,20 cm/s,"PSI-99 Experimental Table, page 1 of 16 rows (values exactly as displayed)"
+PSI-99,2-5,Cotton-Fiberglass (SIBAL),037 mm,29 cm,5 cm,20 cm/s,"PSI-99 Experimental Table, page 1 of 16 rows (values exactly as displayed)"
+PSI-100,S1,SIBAL Fabric,.33 cm,94 cm,40.6 cm,30 cm/s,PSI-100 Experimental Table (values exactly as displayed)
+PSI-100,S2,SIBAL Fabric,.33 cm,94 cm,40.6 cm,30 cm/s,PSI-100 Experimental Table (values exactly as displayed)
